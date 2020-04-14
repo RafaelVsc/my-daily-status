@@ -40,7 +40,7 @@ const App = (props) => {
                                     {checkin.healthStatus === "covid19" && 'Está com sintomas de covid-19 😷'}
                                 </td>
                                 <td className="border px-4 py-2">
-                                    {checkin.jobStatus === "empregadoRemoto" && 'Está empregado e trablahando remotamente'}
+                                    {checkin.jobStatus === "empregadoRemoto" && 'Está empregado e trabalhando remotamente'}
                                     {checkin.jobStatus === "empregadoEmCirculacao" && 'Está empregado, porém, circulando com precauções'}
                                     {checkin.jobStatus === "desempregadoPrePandemia" && 'Já estava desempregado antes do isolamento(quarentena)'}
                                     {checkin.jobStatus === "desempregadoPosPandemia" && 'Está desempregado devido a quarentena'}
