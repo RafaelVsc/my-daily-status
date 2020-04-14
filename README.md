@@ -1,5 +1,5 @@
 <h1 align="center">
-    <img alt="MyDailyStatus" title="#fullstacklab" src=".github/logo.png" width="250px" />
+    <img alt="MyDailyStatus" title="#fullstacklab" src="public/logo.png" width="250px" />
 </h1>
 
 <h4 align="center">
@@ -23,7 +23,7 @@
 
 <p align="center">
 <a href="#-projeto">Projeto</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-  <a href="#battery-tecnologias">Stacks</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;  
+  <a href="#battery-tecnologias">Tecnologias</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;  
   <a href="#-layout">Layout</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="#zap-executando">Executando</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="#memo-licença">Licença</a>
@@ -32,8 +32,10 @@
 <br>
 
 ## 💻 Projeto
+Esse projeto foi desenvolvido durante o programa FullStackLab do [Devpleno](https://devpleno.com/)
 
-Com a aplicação, o usuário poderá fazer um registro diário do seu estado de saúde durante a pandemia de COVID-19 e também acompanhar os registros de seus familiares e amigos.
+My daily status é uma aplicação onde você pode realizar um registro diário do seu estado de saúde e situação de trabalho durante a pandemia de corona vírus (COVID-19), além de mostrar o registro (de forma anonima) de outros usuários baseados em sua localização.
+Para acessar a aplicação 👉 [aqui](https://my-daily-status.rafaelvsc.now.sh/)
 
 ## 🔋 Tecnologias
 
@@ -48,11 +50,11 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 
 ## 🎨 Layout
 
-Você pode utilizar a seguinte URL para visualizar todas as telas: [Visualizar](https://www.figma.com/file/MTXNMM97OFrCnK0CDGDOOf/MyDailyStatus?node-id=0%3A1)
+![](app.gif)
 
 ## ⚡ Executando
 
-1 - Em um terminal, entrar na raiz do projeto **/fullstacklab-mydailystatus** e rodar o comando:
+1 - Em um terminal, entrar na raiz do projeto **/my-daily-status** e rodar o comando:
 
 ```
 $ npm install

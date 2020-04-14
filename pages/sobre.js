@@ -19,6 +19,12 @@ const Sobre = () => {
             <a href='/api/login' className='py-4 px-2 bg-pink-800 font-bold shadow-xl hover:shadow rounded block w-1/4 text-center mx-auto text-white'>
                 Informar meus sintomas.
             </a>
+
+            <div className='text-center mx-auto py-8'>
+                <p>conheça o desenvolvedor</p>
+                <a href="https://github.com/RafaelVsc" target="_blank">Github</a> | 
+                <a href="https://www.linkedin.com/in/rafael-vescio/" target="_blank">Linkedin</a>
+            </div>
         </div>  
     )
 }

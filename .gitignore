@@ -3,4 +3,3 @@ node_modules
 .env
 firebase-secret.json
 .now
-now.json
